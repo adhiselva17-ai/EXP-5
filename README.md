@@ -27,11 +27,18 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:
+   CIRUIT DIAGRAM TABULATION MODEL GRAPH:LINE REGULATION:
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-05 at 8 46 14 PM" src="https://github.com/user-attachments/assets/7a620fa0-5bbf-4c7b-afb8-10e32221c79e" />
+<img width="1027" height="552" alt="image" src="https://github.com/user-attachments/assets/b99768db-8f7c-4a45-9507-80608b310ee9" />
 
-REGULATION CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+
+ LOAD REGULATION :
+ <img width="1080" height="1457" alt="WhatsApp Image 2026-06-05 at 8 46 42 PM" src="https://github.com/user-attachments/assets/ee8dc4cf-a03f-45e1-aa45-079de07a66ac" />
+<img width="1032" height="492" alt="image" src="https://github.com/user-attachments/assets/c1fd9b4c-a3fd-41df-8d8f-12133956456c" />
+
+
+
 
 PRECAUTIONS:
 
